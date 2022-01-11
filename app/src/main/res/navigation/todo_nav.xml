@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_nav"
+    app:startDestination="@id/todoListFragment">
+
+    <fragment
+        android:id="@+id/todoListFragment"
+        android:name="com.sbr.mytodogo.TodoListFragment"
+        android:label="@string/todo_label"
+        tools:layout="@layout/fragment_todo_list" />
+    <fragment
+        android:id="@+id/notesListFragment"
+        android:name="com.sbr.mytodogo.NotesListFragment"
+        android:label="@string/notes_label"
+        tools:layout="@layout/fragment_notes_list" />
+</navigation>
