@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "385023593649",
+    "project_id": "todogo-a99da",
+    "storage_bucket": "todogo-a99da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385023593649:android:e6baea37b56500fb076690",
+        "android_client_info": {
+          "package_name": "com.sbr.mytodogo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385023593649-8c1rh4allqhb5q15ho52j8ciln7fc2v8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP7Eb3KZA-gIe29GU1BLj6Ai3Xl-VwDgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385023593649-8c1rh4allqhb5q15ho52j8ciln7fc2v8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
